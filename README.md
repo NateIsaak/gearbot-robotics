@@ -9,5 +9,5 @@ https://gitpod.io/#github.com/NateIsaak/gearbot-robotics
 reminder type
 
 ```
-apachect1 start
+apachectl start
 ```
